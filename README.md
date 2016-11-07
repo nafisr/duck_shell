@@ -7,6 +7,10 @@ I encourage to use this software ethically
 
 However i am not responsible for using this software to infect or damage any systems
 
+ To USE
+--------
+Add the ip address of your server in the client.py
+
 Run the server.py before running client.py
 
 Type "clients" to view clients
