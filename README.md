@@ -29,7 +29,7 @@ duck_shell> select 0
 You are now connected to 192.168.1.x
 192.168.1.4> 
 
-
+Now enjoy the system
 
 
 
